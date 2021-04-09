@@ -541,3 +541,7 @@ DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,api.steampowered.com
 DOMAIN,store.steampowered.com
+# > PayPal
+USER-AGENT,PayPal*
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
