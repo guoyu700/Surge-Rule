@@ -1,12 +1,4 @@
-# (DNS Cache Pollution)
-DOMAIN-SUFFIX,cnn.com
-DOMAIN-SUFFIX,myunidays.com
-DOMAIN,ocsp.int-x3.letsencrypt.org
-DOMAIN-SUFFIX,cdn.qooqlevideo.com
-DOMAIN-KEYWORD,notion
-DOMAIN-KEYWORD,btsow
-DOMAIN-KEYWORD,zotero
-DOMAIN-SUFFIX,t66y.com# (DNS Cache Pollution Protection)
+# (DNS Cache Pollution Protection)
 # > Google
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
@@ -129,6 +121,7 @@ DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,clyp.it
 DOMAIN-SUFFIX,cna.com.tw
+DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,comparitech.com
 DOMAIN-SUFFIX,conoha.jp
 DOMAIN-SUFFIX,crucial.com
@@ -239,6 +232,7 @@ DOMAIN-SUFFIX,mingpao.com
 DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
+DOMAIN-SUFFIX,myunidays.com
 DOMAIN-SUFFIX,nanyang.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,neowin.net
@@ -379,6 +373,9 @@ DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,wikileaks
+DOMAIN-KEYWORD,notion
+DOMAIN-KEYWORD,btsow
+DOMAIN-KEYWORD,zotero
 
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,apartmentratings.com
