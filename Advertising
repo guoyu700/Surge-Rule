@@ -308,7 +308,7 @@ DOMAIN,nex.163.com
 DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yt-adp.ws.126.net
 # > NGA
-DOMAIN-SURFFIX,tagtic.cn
+DOMAIN-SUFFIX,tagtic.cn
 # (P)
 # > PPTV
 DOMAIN,ads.aplus.pptv.com
