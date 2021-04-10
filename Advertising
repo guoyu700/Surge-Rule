@@ -85,7 +85,7 @@ DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com
-DOMAIN-SUFFIX,tagtic.cn
+DOMAIN-KEYWORD,tagtic
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tapjoy.com
@@ -307,8 +307,7 @@ DOMAIN,n.3g.163.com
 DOMAIN,nex.163.com
 DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yt-adp.ws.126.net
-# > NGA
-DOMAIN-SUFFIX,tagtic.cn
+
 # (P)
 # > PPTV
 DOMAIN,ads.aplus.pptv.com
